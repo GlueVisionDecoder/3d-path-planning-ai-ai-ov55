@@ -1,4 +1,4 @@
-# 
+# Secure 3D Path Planning AI extensions. Featuring deep-learning-models and speech-recognition — optimized for maximum performance.
 
 
 
